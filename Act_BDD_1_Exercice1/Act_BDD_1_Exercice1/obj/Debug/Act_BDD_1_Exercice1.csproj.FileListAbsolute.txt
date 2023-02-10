@@ -1,0 +1,8 @@
+C:\Users\200188.asty-moulin\Desktop\Act_BDD_1_Exercice1\Act_BDD_1_Exercice1\bin\Debug\Comptoirs.accdb
+C:\Users\200188.asty-moulin\Desktop\Act_BDD_1_Exercice1\Act_BDD_1_Exercice1\bin\Debug\Act_BDD_1_Exercice1.exe.config
+C:\Users\200188.asty-moulin\Desktop\Act_BDD_1_Exercice1\Act_BDD_1_Exercice1\bin\Debug\Act_BDD_1_Exercice1.exe
+C:\Users\200188.asty-moulin\Desktop\Act_BDD_1_Exercice1\Act_BDD_1_Exercice1\bin\Debug\Act_BDD_1_Exercice1.pdb
+C:\Users\200188.asty-moulin\Desktop\Act_BDD_1_Exercice1\Act_BDD_1_Exercice1\obj\Debug\Act_BDD_1_Exercice1.csproj.AssemblyReference.cache
+C:\Users\200188.asty-moulin\Desktop\Act_BDD_1_Exercice1\Act_BDD_1_Exercice1\obj\Debug\Act_BDD_1_Exercice1.csproj.CoreCompileInputs.cache
+C:\Users\200188.asty-moulin\Desktop\Act_BDD_1_Exercice1\Act_BDD_1_Exercice1\obj\Debug\Act_BDD_1_Exercice1.exe
+C:\Users\200188.asty-moulin\Desktop\Act_BDD_1_Exercice1\Act_BDD_1_Exercice1\obj\Debug\Act_BDD_1_Exercice1.pdb
